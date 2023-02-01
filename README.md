@@ -13,7 +13,7 @@
   <img src="https://telegra.ph/file/7e61fe06a9c02747249c4.jpg">
 </p>
 
-# YoneRobot
+# Join Us
 Me On Telegram [AndroServer](https://t.me/AndroXServer)
 
 ## How To Host
@@ -22,7 +22,7 @@ The easiest way to deploy this Bot
  
 CREDITS
 ```
-Well, it's all in the commit history Feel free to open pull requests should any be missing.
+This Is Free To Use Source ! But Source Credit To Yone Bots
 
 ```
 
